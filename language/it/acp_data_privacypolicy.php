@@ -37,21 +37,21 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'ACCEPT_ME'						=> 'Accept Privacy Policy for member',
-	'ACCEPT_REMOVE'					=> 'Remove acceptance for member',
-	'ACP_PRIVACY_POLICY_EXPLAIN'	=> 'Here you can select and view a user’s privacy data.',
-	'ACP_PRIVACY_TITLE'				=> 'Privacy Policy Data',
+	'ACCEPT_ME'						=> 'Accetta l\'informativa sulla privacy per l\'utente',
+	'ACCEPT_REMOVE'					=> 'Rimuovi accettazione per l\'utente',
+	'ACP_PRIVACY_POLICY_EXPLAIN'	=> 'Qui puoi selezionare e visualizzare i dati sulla privacy di un utente',
+	'ACP_PRIVACY_TITLE'				=> 'Dati sulla privacy',
 
-	'DETAILS_FOR'					=> 'Privacy details for : %1$s',
+	'DETAILS_FOR'					=> 'Dettagli sulla privacy per : %1$s',
 
-	'INVALID_USERNAME'				=> 'Invalid username entered',
+	'INVALID_USERNAME'				=> 'L\'Username inserita non valida',
 
-	'NO_IPS_FOUND'					=> 'No IPs found',
-	'NO_USERNAME'					=> 'No Username entered',
+	'NO_IPS_FOUND'					=> 'Nessun IP trovato',
+	'NO_USERNAME'					=> 'Nessun nome utente inserito',
 
-	'POLICY_ACCEPTANCE_SET'			=> 'Privacy Policy acceptance set for %1$s',
-	'POLICY_ACCEPTANCE_UNSET'		=> 'Privacy Policy acceptance unset for %1$s',
+	'POLICY_ACCEPTANCE_SET'			=> 'Accettazione della Privacy Policy impostata per %1$s',
+	'POLICY_ACCEPTANCE_UNSET'		=> 'Accettazione della Privacy Policy non impostata per %1$s',
 
-	'SELECT_USERNAME_EXPLAIN'		=> 'The user whose privacy data you wish to examine.',
-	'SELECT_USERNAME'				=> 'Select username',
+	'SELECT_USERNAME_EXPLAIN'		=> 'L\'utente di cui desideri esaminare i dati sulla privacy.',
+	'SELECT_USERNAME'				=> 'Seleziona nome utente',
 ));
