@@ -56,7 +56,7 @@ $lang = array_merge($lang, array(
 	'OTHER'					=> 'Altro',
 
 	'PAGE_NUMBER'			=> 'Pagina',
-	'PRIVACY_LIST_EXPLAIN'	=> 'Here is a list of all the board members and the date on which they have accepted the Privacy Policy of this board.',
+	'PRIVACY_LIST_EXPLAIN'	=> 'Di seguito è riportato un elenco di tutti i membri del Forum e la data in cui hanno accettato l\'informativa sulla privacy di questo Forum.',
 
 	'REG_DATE'				=> 'Data di registrazione.',
 
