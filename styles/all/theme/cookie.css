@@ -2,7 +2,7 @@
 * cookie.css
 **/
 
-.cookie-box {
+/* .cookie-box {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	font-weight: bold;
@@ -15,8 +15,29 @@
 	box-sizing: border-box;
 	opacity: 0.7;
 	border-radius: 8px 8px 8px 8px;
-}
 
+	
+}
+*/
+.cookieAcceptBox {
+	background-color: rgb(0, 96, 143);
+	color: rgb(255, 255, 255);
+	border: 0px solid rgb(255, 255, 138);
+} 
+.cookie-box {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	height: auto;
+	z-index: 10;
+	text-decoration: none;
+	padding: 10px 10px 10px 10px;
+	position: fixed;
+	box-sizing: border-box;
+	width: 100%;
+	left: 0px;
+}
 .cookie-box a {
 	display: block;
 	text-align: center;
