@@ -1,4 +1,4 @@
-Fork of the origial repo to add italian traslation.
+Fork of the original repo to add italian traslation.
 
 # Privacy Policy extension for phpBB
 
