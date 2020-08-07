@@ -37,37 +37,37 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'ACCEPT_DATE'			=> 'Acceptance date',
-	'ALL'					=> 'All',
+	'ACCEPT_DATE'			=> 'Data di accettazione',
+	'ALL'					=> 'Tutte',
 
-	'CLEAR_FILTER'			=> 'Clear filter',
+	'CLEAR_FILTER'			=> 'Cancella filtro.',
 
-	'FILTER_BY'				=> 'Filter by',
+	'FILTER_BY'				=> 'Filtra per',
 
-	'GO'					=> 'Go',
+	'GO'					=> 'Vai',
 
 	'HASH'					=> '#',
 
-	'LAST_VISIT'			=> 'Last visit',
+	'LAST_VISIT'			=> 'Ultima visita',
 
-	'NO_VISIT'				=> 'User never visited',
-	'NOT_ACCEPTED'			=> 'Not accepted',
+	'NO_VISIT'				=> 'Utente mai visitato',
+	'NOT_ACCEPTED'			=> 'Non accettato',
 
-	'OTHER'					=> 'Other',
+	'OTHER'					=> 'Altro',
 
-	'PAGE_NUMBER'			=> 'Page',
+	'PAGE_NUMBER'			=> 'Pagina',
 	'PRIVACY_LIST_EXPLAIN'	=> 'Here is a list of all the board members and the date on which they have accepted the Privacy Policy of this board.',
 
-	'REG_DATE'				=> 'Registration date',
+	'REG_DATE'				=> 'Data di registrazione.',
 
-	'SORT_BY'				=> 'Sort by',
+	'SORT_BY'				=> 'Ordinato per',
 
-	'TOTAL_USERS'			=> 'Total',
+	'TOTAL_USERS'			=> 'Totale',
 
 	'USER_ID'				=> 'User ID',
-	'USERNAME'				=> 'Username',
+	'USERNAME'				=> 'Nome utente',
 
-	'VERSION'				=> 'Version',
+	'VERSION'				=> 'Versione',
 
 	// Translators - set these to whatever is most appropriate in your language
 	// These are used to populate the filter keys
