@@ -1,3 +1,5 @@
+Fork of the origial repo to add italian traslation.
+
 # Privacy Policy extension for phpBB
 
 Adds an option for the user to accept the use of cookies under EU Cookie Directive (2012), and the privacy requirements under the GDPR Directive (2018)
