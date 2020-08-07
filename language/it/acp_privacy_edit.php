@@ -37,28 +37,28 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'COOKIE_EDIT_EXPLAIN'				=> 'Here you can customise the board’s Cookie Policy.',
-	'COOKIE_EDIT_EXPLAIN_NEW'			=> 'Here you can add a new Cookie Policy in %1$s.<br>The Cookie Policy is displayed when the Cookie Policy is enabled and a user clicks on the “Policies” link in the bottom navigation bar.',
+	'COOKIE_EDIT_EXPLAIN'				=> 'Qui puoi personalizzare la gestione dei Cookie del forum.',
+	'COOKIE_EDIT_EXPLAIN_NEW'			=> 'Qui puoi aggiungere una nuova Cookie Policy in %1$s.<br>La Cookie Policy viene visualizzata quando la Cookie Policy è abilitata e un utente fa clic sul collegamento "Politiche" nella barra di navigazione in basso.',
 
-	'POLICY_DESCRIPTION'				=> 'Policy file name',
-	'POLICY_DESCRIPTION_EXPLAIN'		=> 'The display name of this policy file which should be translated into <strong>%1$s</strong>.',
-	'POLICY_EDIT'						=> 'Policy Files Editor',
-	'POLICY_EDIT_EXPLAIN'				=> 'Here you can select which policy text files you wish to edit, or create a new policy text file in a specified language.',
-	'POLICY_FILE_OPTIONS'	   			=> 'Policy file options',
-	'POLICY_SELECT_FILE'		   		=> 'Select file',
-	'POLICY_SELECT_LANGUAGE'			=> 'Select language',
-	'PRIVACY_ACCEPT_EDIT_EXPLAIN'		=> 'Here you can customise the board’s Privacy Acceptance Policy.',
-	'PRIVACY_ACCEPT_EDIT_EXPLAIN_NEW'	=> 'Here you can add a new Privacy Acceptance Policy in <strong>%1$s</strong>.<br>The Privacy Acceptance policy is displayed after the Privacy Policy.',
-	'PRIVACY_EDIT_CREATED'				=> 'New privacy policy created »» %1$s',
-	'PRIVACY_EDIT_EXPLAIN'				=> 'Here you can customise the board’s Privacy Policy.',
-	'PRIVACY_EDIT_EXPLAIN_NEW'			=> 'Here you can add a new Privacy Policy in %1$s.<br>The Privacy Policy is the main policy describing the privacy rules of this board.',
-	'PRIVACY_EDIT_UPDATED'				=> 'Privacy policy updated »» %1$s',
+	'POLICY_DESCRIPTION'				=> 'Nome file Policy',
+	'POLICY_DESCRIPTION_EXPLAIN'		=> 'Il nome visualizzato di questo file di criteri che dovrebbe essere tradotto in <strong>%1$s</strong>.',
+	'POLICY_EDIT'						=> 'Editor dei file delle Policy',
+	'POLICY_EDIT_EXPLAIN'				=> 'Qui è possibile selezionare i file di testo della politica che si desidera modificare o creare un nuovo file di testo della politica in una lingua specificata.',
+	'POLICY_FILE_OPTIONS'	   			=> 'Opzioni del file delle Policy',
+	'POLICY_SELECT_FILE'		   		=> 'Seleziona File',
+	'POLICY_SELECT_LANGUAGE'			=> 'Seleziona lingua',
+	'PRIVACY_ACCEPT_EDIT_EXPLAIN'		=> 'Qui puoi personalizzare la politica di accettazione della privacy del Forum.',
+	'PRIVACY_ACCEPT_EDIT_EXPLAIN_NEW'	=> 'Qui puoi aggiungere una nuova Policy di accettazione della privacy in <strong>%1$s</strong>.<br>La Policy di accettazione della privacy viene visualizzata dopo la Policy sulla privacy.',
+	'PRIVACY_EDIT_CREATED'				=> 'Nuova Policy creata »» %1$s',
+	'PRIVACY_EDIT_EXPLAIN'				=> 'Qui puoi personalizzare la politica sulla privacy del Forum.',
+	'PRIVACY_EDIT_EXPLAIN_NEW'			=> 'Qui puoi aggiungere una nuova Informativa sulla privacy in %1$s.<br>La politica sulla privacy è la politica principale che descrive le regole sulla privacy di questo Forum.',
+	'PRIVACY_EDIT_UPDATED'				=> 'Informativa sulla privacy aggiornata »» %1$s',
 
-	'TERM_OF_USE_EDIT_EXPLAIN'			=> 'Here you can customise the board’s additional Terms of Use Policy.',
-	'TERM_OF_USE_EDIT_EXPLAIN_NEW'		=> 'Here you can add a new additional Terms of Use Policy in %1$s.<br>This is displayed after the main Terms of Use when a new user wishes to register on the board.',
+	'TERM_OF_USE_EDIT_EXPLAIN'			=> 'Qui puoi personalizzare la Policy aggiuntiva sui Termini d\'uso del Forum.',
+	'TERM_OF_USE_EDIT_EXPLAIN_NEW'		=> 'Qui puoi aggiungere una nuova Policy aggiuntiva sui Termini di utilizzo in %1$s.<br>Questo viene visualizzato dopo le principali Condizioni d\'uso quando un nuovo utente desidera registrarsi al Forum.',
 
-	'SITENAME'							=> 'Sitename',
-	'SITENAME_HELP'						=> 'Insert the sitename placeholder (%sitename%)',
+	'SITENAME'							=> 'Nome sito',
+	'SITENAME_HELP'						=> 'Inserisci il segnaposto del nome sito (%sitename%)',
 
-	'VERSION'				   			=> 'Version',
+	'VERSION'				   			=> 'Versione',
 ));
