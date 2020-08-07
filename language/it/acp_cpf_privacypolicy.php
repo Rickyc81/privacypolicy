@@ -37,6 +37,6 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'SHOW_PRIVACY_PROFILE_FIELD'			=> 'Display field on Privacy data',
-	'SHOW_PRIVACY_PROFILE_FIELD_EXPLAIN'	=> 'If this option is enabled, the field will be displayed on the “Privacy Data” page in the user’s UCP and a user’s “Privacy data” in the ACP.',
+	'SHOW_PRIVACY_PROFILE_FIELD'			=> 'Campo di visualizzazione sui dati sulla privacy',
+	'SHOW_PRIVACY_PROFILE_FIELD_EXPLAIN'	=> 'Se questa opzione è abilitata, il campo verrà visualizzato nella pagina "Dati sulla privacy" nell\'UCP dell\'utente e nei "Dati sulla privacy" dell\'utente nell\'ACP.',
 ));
