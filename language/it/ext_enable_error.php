@@ -37,8 +37,8 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, [
-	'EXT_ENABLE_ERROR' 		=> 'This extension requires phpBB 3.3.0 (or greater).',
-	'COOKIE_POLICY_FOUND'	=> 'You cannot install this extension while you still have the “Cookie policy” extension installed.<br>Please disable and delete the data for the “Cookie policy” extension and then try again.',
+	'EXT_ENABLE_ERROR' 		=> 'Questa estensione richiede phpBB 3.3.0 (o superiore).',
+	'COOKIE_POLICY_FOUND'	=> 'Non è possibile installare questa estensione mentre è ancora installata l\'estensione "Cookie policy".<br>Disabilitare ed eliminare i dati per l\'estensione "Cookie policy" e quindi riprovare.',
 ]);
 
 /**
