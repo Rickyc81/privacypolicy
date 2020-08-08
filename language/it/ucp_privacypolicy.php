@@ -37,12 +37,12 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'CSV_DOWNLOAD'					=> 'Download CSV file of this data',
+	'CSV_DOWNLOAD'					=> 'Scarica il file in CSV dei tuoi dati',
 
-	'REMOVE_ACCOUNT'				=> 'Click this link to send an email to the board Admin requesting the removal of your account',
-	'REMOVE_MY_ACCOUNT'				=> 'Please Remove My Account',
-	'REMOVE_MY_ACCOUNT_BODY'		=> 'I no longer wish to be a member of this board and request that my details are removed in accordance with the GDPR (2018) regulations.%1$sMy Username is %2$s%1$s%1$sThe reason that I wish to be removed is [please enter reason. If no reason is entered then your details will not be removed.]',
+	'REMOVE_ACCOUNT'				=> 'Fare clic su questo collegamento per inviare un\'e-mail all\'amministratore del forum con la richiesta di rimozione del proprio account',
+	'REMOVE_MY_ACCOUNT'				=> 'Per favore rimuovi il mio account',
+	'REMOVE_MY_ACCOUNT_BODY'		=> 'Non desidero più essere un membro di questo Forum e richiedo che i miei dati vengano rimossi in conformità con il regolamento GDPR (2018).%1$sIl mio nome utente è %2$s%1$s%1$sIl motivo per cui desidero essere rimosso è [inserisci il motivo. Se non viene inserito alcun motivo, i tuoi dati non verranno rimossi.]',
 
-	'UCP_PRIVACY_POLICY_EXPLAIN'	=> 'Below you will find the details of your personal data that we store on this site.',
-	'UCP_PRIVACY_TITLE'				=> 'Privacy Policy Data',
+	'UCP_PRIVACY_POLICY_EXPLAIN'	=> 'Di seguito troverai i dettagli dei tuoi dati personali che memorizziamo su questo sito.',
+	'UCP_PRIVACY_TITLE'				=> 'Dati sulla privacy',
 ));
