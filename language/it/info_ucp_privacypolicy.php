@@ -37,8 +37,8 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'PRIVACY_DETAILS' 	=> 'Privacy details',
-	'PRIVACY_POLICY'	=> 'Privacy policy',
+	'PRIVACY_DETAILS' 	=> 'Dettagli sulla privacy',
+	'PRIVACY_POLICY'	=> 'Politica sulla Privacy',
 
-	'UCP_PRIVACY'		=> 'Privacy Data',
+	'UCP_PRIVACY'		=> 'Dati sulla privacy',
 ));
