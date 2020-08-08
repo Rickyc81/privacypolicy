@@ -37,23 +37,23 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'ACP_USER_UTILS'				=> 'User utilities',
-	'AUTOGROUPS_TYPE_PPACCPT'		=> 'Privacy Policy accepted',
+	'ACP_USER_UTILS'				=> 'Utilità utente',
+	'AUTOGROUPS_TYPE_PPACCPT'		=> 'Privacy Policy Accettata',
 
 	'COOKIE_POLICY'					=> 'Privacy & Cookie policies',
 
-	'POLICY_RESET_LOG'				=> '<strong>Privacy policy acceptance reset for all users</strong>',
-	'POLICY_USER_ACCEPT_LOG'		=> '<strong>Privacy policy acceptance set for user</strong><br>»» %1$s',
-	'POLICY_USER_UNSET_LOG'			=> '<strong>Privacy policy acceptance unset for user</strong><br>»» %1$s',
-	'PRIVACY_DATA'					=> 'Privacy data',
-	'PRIVACY_LIST'					=> 'Privacy list',
+	'POLICY_RESET_LOG'				=> '<strong>Reimpostazione dell\'accettazione della politica sulla privacy per tutti gli utenti</strong>',
+	'POLICY_USER_ACCEPT_LOG'		=> '<strong>Accettazione della politica sulla privacy impostata per l\'utente</strong><br>»» %1$s',
+	'POLICY_USER_UNSET_LOG'			=> '<strong>Accettazione della politica sulla privacy non impostata per l\'utente</strong><br>»» %1$s',
+	'PRIVACY_DATA'					=> 'Dati sulla privacy',
+	'PRIVACY_LIST'					=> 'Elenco privacy',
 	'PRIVACY_POLICY'				=> 'Privacy policy',
-	'PRIVACY_POLICY_ADD_LOG'		=> '<strong>Privacy policy added</strong><br>»» %1$s',
+	'PRIVACY_POLICY_ADD_LOG'		=> '<strong>Privacy policy aggiunta</strong><br>»» %1$s',
 	'PRIVACY_POLICY_EDIT'			=> 'Policy files editor',
-	'PRIVACY_POLICY_EDIT_LOG'		=> '<strong>Privacy policy edited</strong><br>»» %1$s',
-	'PRIVACY_POLICY_LOG'			=> '<strong>Privacy policy settings updated</strong>',
-	'PRIVACY_POLICY_MANAGE'			=> 'Privacy policy settings',
+	'PRIVACY_POLICY_EDIT_LOG'		=> '<strong>Privacy policy modificata</strong><br>»» %1$s',
+	'PRIVACY_POLICY_LOG'			=> '<strong>Impostazioni della privacy policy aggiornate</strong>',
+	'PRIVACY_POLICY_MANAGE'			=> 'Settaggi Privacy policy',
 
-	'TAPATALK_INSTALLED'			=> 'Tapatalk detected',
-	'TAPATALK_INSTALLED_EXPLAIN'	=> 'The Tapatalk extension has been detected as being installed on this board which is incompatible with the Privacy Policy extension.<br><br>This means that any Tapatalk users accessing this board will not be subject to the requirements of the Privacy Policy.',
+	'TAPATALK_INSTALLED'			=> 'Tapatalk rilevato',
+	'TAPATALK_INSTALLED_EXPLAIN'	=> 'L\'estensione Tapatalk è stata rilevata come installata su questa scheda che non è compatibile con l\'estensione della Privacy Policy.<br><br>Ciò significa che qualsiasi utente Tapatalk che accede a questa bacheca non sarà soggetto ai requisiti dell\'Informativa sulla privacy.',
 ));
