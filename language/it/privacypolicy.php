@@ -37,24 +37,24 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'ACCEPT' 				=> 'I accept this policy',
+	'ACCEPT' 				=> 'Accetto queste Policies',
 
-	'COOKIE_ACCEPT_TEXT'	=> 'This board uses cookies to give you the best and most relevant experience. In order to use this board it means that you need accept this policy.<br>You can find out more about the cookies used on this board by clicking the "Policies" link at the bottom of the page.<br>',
-	'COOKIE_ACCEPT'			=> 'Accept cookies',
-	'COOKIE_ACCESS'			=> 'Cookie Access',
+	'COOKIE_ACCEPT_TEXT'	=> 'Questo Forum utilizza i cookie per darti la migliore e più pertinente esperienza. Per poter utilizzare questo Forum devi accettare queste Policies.<br>Puoi saperne di più sui cookie utilizzati in questo forum facendo clic sul collegamento "Policies" in fondo alla pagina.<br>',
+	'COOKIE_ACCEPT'			=> 'Accetta',
+	'COOKIE_ACCESS'			=> 'Accesso ai cookies',
 
-	'COOKIE_BLOCK'			=> 'You cannot access links on this board until you have accepted the Cookie Policy.',
+	'COOKIE_BLOCK'			=> 'Non puoi accedere ai link su questo forum fino a quando non hai accettato la Cookie Policy.',
 
 	'COOKIE_POLICY'			=> 'Cookie Policy',
 	'COOKIE_PRIV_POLICY'	=> 'Policies',
 
-	'COOKIE_REQUIRE_ACCESS'	=> '<h3>Cookie Acceptance Required</h3>
-	<p>You must accept the Cookie Policy of %1$s before you can either register on this site or, if you are already registered, before you can login to the site.</p>',
+	'COOKIE_REQUIRE_ACCESS'	=> '<h3>Accettazione cookie richiesta</h3>
+	<p>Devi accettare la Politica sui cookie di %1$s prima di poterti registrare su questo sito , se sei già registrato, prima di poter accedere al sito.</p>',
 
-	'DECLINE' 				=> 'I do not accept this policy',
+	'DECLINE' 				=> 'Non accetto questa politica',
 
-	'HR_BBCODE_HELPLINE' 	=> 'Insert a horizontal line',
+	'HR_BBCODE_HELPLINE' 	=> 'Inserisci una riga orizzontale',
 
-	'POLICY_ACCEPT' 		=> 'Accept privacy policy',
-	'POLICY_EXPLAIN'		=> 'Display the Privacy &Cookie policies for this board',
+	'POLICY_ACCEPT' 		=> 'Accetta la Policy della Privacy',
+	'POLICY_EXPLAIN'		=> 'Visualizza le Policy sulla privacy e sui cookie per questo Forum',
 ));
