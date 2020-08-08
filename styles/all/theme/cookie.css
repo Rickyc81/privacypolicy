@@ -2,11 +2,6 @@
 * cookie.css
 **/
 
-.cookieAcceptBox {
-	background-color: rgb(0, 96, 143);
-	color: rgb(255, 255, 255);
-	border: 0px solid rgb(255, 255, 138);
-} 
 .cookie-box {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 15px;
@@ -20,11 +15,11 @@
 	box-sizing: border-box;
 	width: 100%;
 	left: 0px;
-	opacity: 0.7;
+	/*opacity: 0.7;*/
 }
 .cookie-box a {
 	text-align: center;
-	background-color: #0082c1;
+	background-color: #4500dd;
 	padding: 15px;
 	border-radius: 7px;
 	width: 150px;
